@@ -50,7 +50,7 @@ Leetcode 238.除自身以外数组的乘积:
 
 Leetcode 50. Pow(x, n):
 
-实现 pow(x, n) ，即计算 x 的 n 次幂函数（即，xn ）。
+实现 pow(x, n) ，即计算 x 的 n 次幂函数。
 
 ## 二叉树
 
